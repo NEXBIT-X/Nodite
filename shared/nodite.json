@@ -1,0 +1,21 @@
+{
+  "routes": [
+    {
+      "id": "route_1",
+      "method": "GET",
+      "path": "/api/test",
+      "responseBody": {
+        "message": "Hello from Nodite",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "route_1774890866680",
+      "method": "GET",
+      "path": "/api/dev",
+      "responseBody": {
+        "message": "New route response"
+      }
+    }
+  ]
+}
